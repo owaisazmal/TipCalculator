@@ -1,16 +1,21 @@
-TipCalculator
+## Tip Calculator
 
-Overview
-The TipCalculator is a simple SwiftUI application designed to help users easily calculate the tip amount based on the total bill and desired tip percentage.
-This project serves as a basic demonstration of SwiftUI's capabilities in creating interactive and user-friendly interfaces.
+Tip Calculator is a SwiftUI application for iPhone that calculates the tip amount for a restaurant bill.
 
 Features
-User Input for Total Amount: Enter the total bill amount via a text field.
-Tip Percentage Slider: Adjust the tip percentage using a slider that ranges from 1% to 30%.
-Tip Calculation: Automatically calculates and displays the tip amount based on the entered total and selected tip percentage.
-Input Validation: Checks if the entered total amount is a valid number and provides feedback if not.
+-User enters the total bill amount.
+-User selects the desired tip percentage using a slider.
+-App calculates the tip amount based on the entered total and selected tip percentage.
+-App displays the calculated tip amount.
+-App validates user input to ensure a valid number is entered for the total bill amount.
 
-Getting Started
-Prerequisites
-Xcode 12 or later
-iOS 14.0 or later
+-Running the App
+Clone this repository.
+Open the project in Xcode.
+Ensure you have a SwiftUI development environment set up on your Mac.
+Build and run the app on your iPhone simulator or a connected device.
+
+-Dependencies
+Xcode 14+ (with SwiftUI support)
+Contributing
+Feel free to fork this repository and submit pull requests with improvements or new features.
