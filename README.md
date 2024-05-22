@@ -9,6 +9,9 @@ Tip Calculator is a SwiftUI application for iPhone that calculates the tip amoun
 4. App displays the calculated tip amount.
 5. App validates user input to ensure a valid number is entered for the total bill amount.
 
+## Screenshot
+<img width="1599" alt="Screenshot 2024-05-22 at 5 42 49 AM" src="https://github.com/owaisazmal/TipCalculator/assets/87142612/48b0788e-fde7-4303-8b3e-40422da46cf0">
+
 ## Running the App
 - Clone this repository.
 - Open the project in Xcode.
